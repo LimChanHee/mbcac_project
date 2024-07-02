@@ -39,4 +39,14 @@
 * git status : 위에서 commit 한 정보가 확인되는지
 * git push origin main : 최종적으로 로컬 프로젝트를 원격 저장소(origin)의 main 브랜치에 병합한다
 * github.com에 접속하여 해당 파일의 내용이 변경되어 있는지 확인한다
-* 
+
+## 로컬 저장소에서 새로운 파일(index.html)을 생성하고 원격에 저장하여 그 결과를 확인해보세요
+
+ * 해당 프로젝트 루트에 index.html 생성
+ * git status 으로 생성된 파일이 인지되고 있는지 확인
+ * git add . 으로 staging
+ * git status 으로 staging 확인
+ * git commit -m "index.html 처음 작성" 변경내역 저장
+ * git pull : 현재 원격 저장소에 있는 변경된 내용을 로컬에 합친다
+ * git push origin main 으로 업로드   <-- rejexted, 'git pull' before pushing again
+ 
