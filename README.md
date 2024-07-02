@@ -29,7 +29,7 @@
 $\color{#ff0000}{\textsf{색상 설정}}$
 
 <p>
-<a name="code1">code1</a> [go to top](#top)
+<a name="code1">code1</a> [go to top](#top) [go to code7](#code7)
 	
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
@@ -120,7 +120,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
-<a name="code7">code7</a> [go to top](#top)
+<a name="code7">code7</a> [go to top](#top) <a name="code7"></a>
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
