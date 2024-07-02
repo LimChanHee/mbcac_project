@@ -10,6 +10,8 @@
     - 2주 : 게시판
     - 3주 : 뉴스
 <a name="top"></a>
+
+[go to code7](#code7)
 ## 아래의 코드를 참고하세요!
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
@@ -29,7 +31,7 @@
 $\color{#ff0000}{\textsf{색상 설정}}$
 
 <p>
-<a name="code1">code1</a> [go to top](#top) [go to code7](#code7)
+<a name="code1">code1</a> [go to top](#top) 
 	
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
