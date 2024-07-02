@@ -25,5 +25,5 @@
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
-
+$\color{#ff0000}{\textsf{색상 설정}}$
 
