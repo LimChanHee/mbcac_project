@@ -1,4 +1,4 @@
-# mbcac_team
+# mbcac_project
 
 ## 팀 프로젝트 안내
 * 주제: 열심히 하자
