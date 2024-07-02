@@ -7,3 +7,5 @@
 ## git 다운로드/설치
   * user.name / user.email 등록
   * git config --list : 등록된 항목 확인
+
+## 로컬에서 추카된 항목
